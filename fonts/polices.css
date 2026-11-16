@@ -1,0 +1,15 @@
+/* Polices du site Jacob Revêtement (hébergées sur le site, aucun appel à Google) */
+@font-face{font-family:'Montserrat';src:url('montserrat-latin-600-normal.woff2') format('woff2');font-weight:600;font-style:normal;font-display:swap}
+@font-face{font-family:'Montserrat';src:url('montserrat-latin-700-normal.woff2') format('woff2');font-weight:700;font-style:normal;font-display:swap}
+@font-face{font-family:'Montserrat';src:url('montserrat-latin-800-normal.woff2') format('woff2');font-weight:800;font-style:normal;font-display:swap}
+@font-face{font-family:'Source Sans 3';src:url('source-sans-3-latin-400-normal.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:'Source Sans 3';src:url('source-sans-3-latin-600-normal.woff2') format('woff2');font-weight:600;font-style:normal;font-display:swap}
+@font-face{font-family:'Source Sans 3';src:url('source-sans-3-latin-700-normal.woff2') format('woff2');font-weight:700;font-style:normal;font-display:swap}
+:root{
+  --font-display:'Montserrat',system-ui,-apple-system,'Segoe UI',Arial,sans-serif;
+  --font-text:'Source Sans 3',system-ui,-apple-system,'Segoe UI',Arial,sans-serif;
+}
+
+/* Police de la phrase d'accroche (carte Cuisine, section 3) */
+@font-face{font-family:'Lora';src:url('lora-latin-500-italic.woff2') format('woff2');font-weight:500;font-style:italic;font-display:swap}
+@font-face{font-family:'Lora';src:url('lora-latin-500-normal.woff2') format('woff2');font-weight:500;font-style:normal;font-display:swap}
